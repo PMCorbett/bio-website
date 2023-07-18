@@ -225,7 +225,7 @@ or
 
 `before()/beforeAll() -> something in a describe block 400 lines ago -> assert -> after() -> afterAll()`
 
-We spend more time reading tests than writing tests over the whole life of the test file. So tests should be writting to read.
+We spend more time reading tests than writing tests over the whole life of the test file. So tests should be written to read.
 
 When a person comes to a massive spec days, weeks, or months after it was written, they will not know the exact context of what the original author intended, so it will help if they can see the whole context of each assertion in one eye-zone (I feel like their should be a word for that, but I can't think of it).
 
