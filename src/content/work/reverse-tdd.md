@@ -1,7 +1,7 @@
 ---
 title: Reverse TDD
 publishDate: 2023-08-29 00:00:00
-img: /assets/reverse.webp
+img: /assets/reverse2.webp
 img_alt: UNO Reverse
 description: |
   How to refactor something that doesn't have good tests
